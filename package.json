@@ -1,0 +1,1 @@
+{"name":"soundboard-website","version":"1.0.0","private":true,"description":"Modernized soundboard website project.","scripts":{"vercel-build":"echo \"Static site ready\""}}

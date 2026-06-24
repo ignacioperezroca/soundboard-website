@@ -2,7 +2,11 @@
 
 Modernized static presentation for the soundboard project.
 
+## Quick links
+- [Project notes](docs/README.md)
+- [Maintenance notes](docs/MAINTENANCE.md)
+
 ## Status
-- Public on GitHub
-- Vercel-ready
-- Simplified for maintenance
+- Public GitHub repository
+- Vercel-ready static site
+- Simplified for long-term maintenance
